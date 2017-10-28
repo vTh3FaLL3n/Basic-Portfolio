@@ -1,0 +1,87 @@
+body{
+    background-image: url("/assets/images/spirationdark.png");
+    width:100%
+}
+.top{
+    background-color: #ffffff;
+    width:100%;
+    position: fixed;
+}
+.header{
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    float: left;
+    text-align: center;
+}
+nav {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-left: 670px;
+    position: fixed;
+}
+.content{
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    float: left;
+    width: 650px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 108px;
+}
+.contact{
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    float: left;
+    width: 650px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 108px;
+}
+#name, #email, #subject{
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+#submit{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 14px;
+    border: 0;
+    width: 100px;
+    height: 35px;
+}
+.picture{
+    float: left;
+}
+.sidebar{
+    background-color: #ffffff;
+    color: #4aaaa5;
+    width: 270px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 120px;
+    float: left;
+    margin-left: 20px;
+}
+.footer{
+    background-color: #666666 ;
+    height: 75px;
+    width: 100%;
+    color: #ffffff ;
+    margin: 0;
+    padding-top: 5px;
+    clear: both;
+    border-top: 4px solid #4aaaa5 ;
+    position: fixed;
+    bottom:0;
+    left:0; 
+}
+#footerText {
+    text-align: center;
+}
