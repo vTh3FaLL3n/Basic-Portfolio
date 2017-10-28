@@ -1,5 +1,5 @@
 body{
-    background-image: url("/assets/images/spirationdark.png");
+    background-image: url("../images/spirationdark.png");
     width:100%
 }
 .top{
@@ -13,6 +13,7 @@ body{
     color: white;
     float: left;
     text-align: center;
+    margin-left: 140px;
 }
 nav {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -21,6 +22,7 @@ nav {
     padding-top: 10px;
     padding-left: 670px;
     position: fixed;
+    margin-left: 155px;
 }
 .content{
     background-color: #ffffff;
@@ -31,6 +33,7 @@ nav {
     padding-left: 15px;
     padding-right: 15px;
     margin-top: 108px;
+    margin-left: 140px;
 }
 .contact{
     background-color: #ffffff;
@@ -57,7 +60,7 @@ nav {
     width: 270px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-top: 120px;
+    margin-top: 109px;
     float: left;
     margin-left: 20px;
 }
